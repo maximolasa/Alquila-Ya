@@ -254,36 +254,7 @@ form textarea {
 
 
 /* postBuscar */
-.paginas{
-   position: relative;
-    color: #e0e0e0;
-    bottom: 100px;
-    left:45%;
-    display: flex;
-    justify-content: space-around;
-    flex-direction: row;
-    width: 10px;
-    left: 84.5%;
-    bottom: 5px;
-    
-}
 
-.paginas ul{
-    font-size: 20px;
-    border: 0.5px solid white;
-    height: 2px;
-    padding: 4px 8px;
-    padding-bottom: 30px;
-    border-radius: 4px;
-    height: 1px;
-    background-color: rgba(0, 0, 0, 0.1);
-}
-
-.paginas ul:hover{
-    cursor: pointer;
-    background-color: orange;
-    
-}
 
 .card {
 
